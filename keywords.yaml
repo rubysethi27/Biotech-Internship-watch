@@ -1,0 +1,62 @@
+# =============================================================================
+# KEYWORDS
+# Matched case-insensitively against job titles (and description if present).
+# A job can match both lists (e.g. "Translational Strategy") -- that's fine,
+# it'll just get tagged with both categories.
+# =============================================================================
+
+business_track:
+  - "business development"
+  - " bd intern"
+  - "corporate development"
+  - "commercial strategy"
+  - "commercial operations"
+  - "commercial excellence"
+  - "market access"
+  - "competitive intelligence"
+  - "portfolio strategy"
+  - "product strategy"
+  - "equity research"
+  - "venture"
+  - "life sciences consulting"
+  - "strategy consulting"
+  - "corporate strategy"
+  - "business analyst"
+  - "strategic finance"
+  - "investment analyst"
+  - "biotech investing"
+  - "healthcare investing"
+
+technical_track:
+  - "research intern"
+  - "research associate intern"
+  - "lab intern"
+  - "laboratory intern"
+  - "clinical operations intern"
+  - "clinical research intern"
+  - "process development intern"
+  - "manufacturing intern"
+  - "quality assurance intern"
+  - "quality control intern"
+  - "regulatory affairs intern"
+  - "bioengineering intern"
+  - "biomedical engineering intern"
+  - "r&d intern"
+  - "translational"
+  - "drug discovery intern"
+  - "cell therapy intern"
+  - "gene therapy intern"
+
+# Titles containing any of these get auto-excluded even if another keyword
+# matches (cuts down on false positives like "Business Development
+# Representative" for unrelated SaaS sales orgs, or senior/non-intern roles).
+exclude_if_contains:
+  - "senior"
+  - "director"
+  - "principal"
+  - "vice president"
+  - " vp "
+  - "head of"
+  - "manager, "
+  - "phd"
+  - "postdoctoral"

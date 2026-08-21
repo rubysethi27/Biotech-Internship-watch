@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Internship Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #10140f;
+    --panel: #171d15;
+    --panel-2: #1e251b;
+    --line: #2a3226;
+    --ink: #eae7db;
+    --muted: #8b9382;
+    --amber: #e8a33d;
+    --teal: #5fb79a;
+    --red: #c96a4f;
+    --radius: 3px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',sans-serif;
+    background-image:
+      repeating-linear-gradient(0deg, rgba(255,255,255,0.015) 0px, rgba(255,255,255,0.015) 1px, transparent 1px, transparent 28px);
+  }
+  header{
+    padding:36px 28px 20px;
+    border-bottom:1px solid var(--line);
+    display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:16px;
+  }
+  .title-block .eyebrow{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:var(--amber);
+    margin-bottom:6px;
+  }
+  h1{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:32px; margin:0; font-weight:700; letter-spacing:-0.01em;
+  }
+  .updated{
+    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--muted);
+    text-align:right;
+  }
+  main{ padding:24px 28px 60px; max-width:1180px; margin:0 auto; }
+
+  .source-strip{
+    display:flex; gap:8px; flex-wrap:wrap; margin-bottom:28px;
+  }
+  .source-dot{
+    font-family:'IBM Plex Mono',monospace; font-size:11px;
+    background:var(--panel); border:1px solid var(--line); border-radius:20px;
+    padding:5px 10px 5px 8px; display:flex; align-items:center; gap:6px; color:var(--muted);
+    cursor:default;
+  }
+  .source-dot .dot{ width:7px; height:7px; border-radius:50%; }
+  .dot.ok{ background:var(--teal); }
+  .dot.error{ background:var(--red); }
+  .source-dot[title]:hover{ border-color:var(--amber); color:var(--ink); }
+
+  .controls{
+    display:flex; gap:10px; flex-wrap:wrap; margin-bottom:22px;
+    padding:14px; background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+  }
+  input[type=text]{
+    flex:1; min-width:180px;
+    background:var(--bg); border:1px solid var(--line); color:var(--ink);
+    padding:9px 12px; border-radius:var(--radius); font-family:'Inter'; font-size:14px;
+  }
+  select{
+    background:var(--bg); border:1px solid var(--line); color:var(--ink);
+    padding:9px 10px; border-radius:var(--radius); font-family:'Inter'; font-size:13px;
+  }
+
+  .section-label{
+    font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.1em; text-transform:uppercase;
+    color:var(--amber); margin:32px 0 12px; display:flex; align-items:center; gap:10px;
+  }
+  .section-label::after{ content:''; flex:1; height:1px; background:var(--line); }
+
+  .job-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:12px; }
+  .card{
+    background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+    padding:16px; position:relative; transition:border-color .15s;
+  }
+  .card:hover{ border-color:var(--amber); }
+  .card .company{ font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
+  .card h3{ font-family:'Space Grotesk'; font-size:16px; margin:6px 0 10px; font-weight:700; line-height:1.3; }
+  .card .meta{ font-size:12px; color:var(--muted); margin-bottom:10px; }
+  .tags{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
+  .tag{
+    font-family:'IBM Plex Mono',monospace; font-size:10px; padding:2px 7px; border-radius:20px;
+    border:1px solid var(--line); color:var(--muted);
+  }
+  .tag.business{ border-color:var(--teal); color:var(--teal); }
+  .tag.technical{ border-color:#7a9bd1; color:#7a9bd1; }
+  .card a.apply{
+    display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:12px;
+    color:var(--bg); background:var(--amber); padding:6px 12px; border-radius:20px;
+    text-decoration:none; font-weight:500;
+  }
+  .stamp{
+    position:absolute; top:14px; right:14px; font-family:'IBM Plex Mono',monospace;
+    font-size:9px; letter-spacing:.1em; padding:2px 6px; border-radius:2px; transform:rotate(3deg);
+    border:1px solid; text-transform:uppercase;
+  }
+  .stamp.open{ color:var(--teal); border-color:var(--teal); }
+  .stamp.closed{ color:var(--red); border-color:var(--red); opacity:.7; }
+
+  .watch-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:10px; }
+  .watch-card{
+    background:var(--panel-2); border:1px dashed var(--line); border-radius:var(--radius);
+    padding:14px; font-size:13px;
+  }
+  .watch-card .wname{ font-family:'Space Grotesk'; font-weight:700; margin-bottom:4px; }
+  .watch-card .whint{ color:var(--muted); font-size:12px; margin-bottom:10px; }
+  .watch-card a{ color:var(--amber); font-size:12px; font-family:'IBM Plex Mono',monospace; text-decoration:none; }
+
+  .link-row{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px; }
+  .quicklink{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted);
+    border:1px solid var(--line); border-radius:20px; padding:5px 10px; text-decoration:none;
+  }
+  .quicklink:hover{ color:var(--amber); border-color:var(--amber); }
+
+  .empty{ color:var(--muted); font-family:'IBM Plex Mono',monospace; font-size:13px; padding:20px 0; }
+  footer{ text-align:center; padding:30px; color:var(--muted); font-size:12px; font-family:'IBM Plex Mono',monospace; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="title-block">
+    <div class="eyebrow">Biotech / Pharma / VC / Consulting</div>
+    <h1>Internship Tracker</h1>
+  </div>
+  <div class="updated" id="updated">loading…</div>
+</header>
+
+<main>
+  <div class="source-strip" id="sourceStrip"></div>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search title or company…">
+    <select id="trackFilter">
+      <option value="all">All tracks</option>
+      <option value="business">Business track</option>
+      <option value="technical">Technical track</option>
+    </select>
+    <select id="categoryFilter">
+      <option value="all">All categories</option>
+      <option value="pharma_biotech">Pharma / Biotech</option>
+      <option value="consulting">Consulting</option>
+      <option value="vc">VC</option>
+    </select>
+    <select id="statusFilter">
+      <option value="open">Open only</option>
+      <option value="all">Open + closed</option>
+    </select>
+  </div>
+
+  <div class="section-label">Tracked postings</div>
+  <div class="job-grid" id="jobGrid"></div>
+  <div class="empty" id="emptyMsg" style="display:none;">No postings match these filters yet — try widening the filters, or check back after the next scheduled run.</div>
+
+  <div class="section-label">Quick searches — LinkedIn / Indeed (not auto-scraped, one click to check)</div>
+  <div id="quickLinks"></div>
+
+  <div class="section-label">Watchlist — smaller firms & VCs, check manually or ask Claude to research</div>
+  <div class="watch-grid" id="watchGrid"></div>
+</main>
+
+<footer>Data refreshes automatically via GitHub Actions. Ask Claude to research contacts or events for any watchlist company by name.</footer>
+
+<script>
+const BUSINESS_KEYWORDS = ["business development","corporate development","commercial strategy",
+  "commercial operations","market access","competitive intelligence","portfolio strategy",
+  "equity research","venture","life sciences consulting","strategy consulting"];
+
+async function load() {
+  const res = await fetch('data.json?_=' + Date.now());
+  const data = await res.json();
+
+  document.getElementById('updated').textContent =
+    'Last updated: ' + new Date(data.generated_at).toLocaleString('en-US', {dateStyle:'medium', timeStyle:'short'});
+
+  renderSourceStrip(data.source_status);
+  renderQuickLinks();
+  renderWatchlist(data.watchlist);
+
+  const jobs = data.jobs || [];
+  function applyFilters() {
+    const q = document.getElementById('search').value.toLowerCase();
+    const track = document.getElementById('trackFilter').value;
+    const cat = document.getElementById('categoryFilter').value;
+    const status = document.getElementById('statusFilter').value;
+
+    const filtered = jobs.filter(j => {
+      if (status === 'open' && j.status !== 'open') return false;
+      if (track !== 'all' && j.track !== track && j.track !== 'both') return false;
+      if (cat !== 'all' && j.category !== cat) return false;
+      if (q && !(j.title.toLowerCase().includes(q) || j.company.toLowerCase().includes(q))) return false;
+      return true;
+    });
+    renderJobs(filtered);
+  }
+
+  ['search','trackFilter','categoryFilter','statusFilter'].forEach(id =>
+    document.getElementById(id).addEventListener('input', applyFilters));
+
+  applyFilters();
+}
+
+function renderSourceStrip(sources) {
+  const el = document.getElementById('sourceStrip');
+  if (!sources || !sources.length) {
+    el.innerHTML = '<span class="empty">No source data yet — run the pipeline once to populate this.</span>';
+    return;
+  }
+  el.innerHTML = sources.map(s => `
+    <span class="source-dot" title="${s.status === 'ok' ? 'Connected' : (s.error || 'Error')}">
+      <span class="dot ${s.status === 'ok' ? 'ok' : 'error'}"></span>${s.company}
+    </span>`).join('');
+}
+
+function renderJobs(jobs) {
+  const grid = document.getElementById('jobGrid');
+  const empty = document.getElementById('emptyMsg');
+  if (!jobs.length) {
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+  grid.innerHTML = jobs.map(j => `
+    <div class="card">
+      <div class="stamp ${j.status}">${j.status}</div>
+      <div class="company">${j.company}</div>
+      <h3>${j.title}</h3>
+      <div class="meta">${j.location || 'Location TBD'} · first seen ${j.first_seen_date}</div>
+      <div class="tags">
+        ${j.track === 'business' || j.track === 'both' ? '<span class="tag business">business</span>' : ''}
+        ${j.track === 'technical' || j.track === 'both' ? '<span class="tag technical">technical</span>' : ''}
+      </div>
+      <a class="apply" href="${j.url}" target="_blank" rel="noopener">View posting →</a>
+    </div>
+  `).join('');
+}
+
+function renderQuickLinks() {
+  const el = document.getElementById('quickLinks');
+  const row = kws => kws.map(k => {
+    const li = `https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(k)}&f_I=12&location=United%20States`;
+    const ind = `https://www.indeed.com/jobs?q=${encodeURIComponent(k)}&l=`;
+    return `<a class="quicklink" href="${li}" target="_blank" rel="noopener">LinkedIn: ${k}</a>
+            <a class="quicklink" href="${ind}" target="_blank" rel="noopener">Indeed: ${k}</a>`;
+  }).join('');
+  el.innerHTML = `<div class="link-row">${row(BUSINESS_KEYWORDS)}</div>`;
+}
+
+function renderWatchlist(watchlist) {
+  const el = document.getElementById('watchGrid');
+  if (!watchlist || !watchlist.length) { el.innerHTML = '<div class="empty">No watchlist entries configured.</div>'; return; }
+  el.innerHTML = watchlist.map(w => `
+    <div class="watch-card">
+      <div class="wname">${w.name}</div>
+      <div class="whint">${w.category.replace('_',' ')} · no public ATS feed — check manually</div>
+      <a href="${w.careers_url}" target="_blank" rel="noopener">Careers page →</a>
+    </div>
+  `).join('');
+}
+
+load().catch(err => {
+  document.getElementById('jobGrid').innerHTML =
+    '<div class="empty">Could not load data.json yet. Run scripts/pipeline.py once, then reload.</div>';
+  console.error(err);
+});
+</script>
+</body>
+</html>
