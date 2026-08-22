@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-08-21T17:40:38.033809+00:00",
+  "generated_at": "2026-08-22T20:42:48.519047+00:00",
   "jobs": [],
   "source_status": [
     {
       "company": "Moderna",
-      "ats": "greenhouse",
+      "ats": "workday",
       "status": "error",
-      "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd1",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd5",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd1",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd1",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd501",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd3",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd5",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd3",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "AbbVie",
@@ -69,22 +69,22 @@
       "company": "Amgen",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd1",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd1",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd5",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Zevra Therapeutics",
@@ -105,7 +105,7 @@
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "ZS Associates",
@@ -123,27 +123,52 @@
     },
     {
       "company": "Trinity Life Sciences",
-      "ats": "greenhouse",
+      "ats": "workday",
       "status": "error",
-      "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "error": "HTTP 400 on wd108",
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "error",
       "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     },
     {
       "company": "Health Advances",
       "ats": "greenhouse",
       "status": "error",
       "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "last_checked": "2026-08-22T20:42:48.519047+00:00"
     }
   ],
   "watchlist": [
+    {
+      "name": "AbbVie",
+      "category": "pharma_biotech",
+      "careers_url": "https://careers.abbvie.com/en/"
+    },
+    {
+      "name": "ZS Associates",
+      "category": "consulting",
+      "careers_url": "https://jobs.zs.com/jobs"
+    },
+    {
+      "name": "Zevra Therapeutics",
+      "category": "pharma_biotech",
+      "careers_url": "https://zevra.com/careers/"
+    },
+    {
+      "name": "Eton Pharmaceuticals",
+      "category": "pharma_biotech",
+      "careers_url": "https://www.etonpharma.com/careers/"
+    },
+    {
+      "name": "L.E.K. Consulting",
+      "category": "consulting",
+      "careers_url": "https://www.lek.com/careers"
+    },
     {
       "name": "Flagship Pioneering",
       "category": "vc",
