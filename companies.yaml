@@ -1,0 +1,187 @@
+# =============================================================================
+# COMPANIES TO TRACK
+# =============================================================================
+# ats: greenhouse | lever | workday
+# token: the board token / tenant slug. For most of these I could NOT verify
+#        the exact token live (no internet access while building this), so
+#        treat every entry as "best guess" until the dashboard shows it
+#        connecting successfully. See README.md > "Fixing a broken company"
+#        for how to find the correct token in under a minute.
+#
+# HOW TO FIND A TOKEN YOURSELF:
+#   Greenhouse -> visit the company's "careers" link. If it redirects to
+#     boards.greenhouse.io/SOMETHING, "SOMETHING" is the token.
+#   Lever -> if it redirects to jobs.lever.co/SOMETHING, "SOMETHING" is the token.
+#   Workday -> the URL looks like https://SOMECOMPANY.wd5.myworkdayjobs.com/en-US/SITENAME
+#     tenant = SOMECOMPANY, site = SITENAME (site is often "Careers" or similar)
+# =============================================================================
+
+ats_tracked:
+  # ---- Large pharma / biotech (best-guess tokens, verify via dashboard) ----
+  - name: "Moderna"
+    ats: workday
+    tenant: "modernatx"
+    site: "M_tx"
+    wd_host: "wd1"
+    category: pharma_biotech
+
+  - name: "Merck"
+    ats: workday
+    tenant: "merck"
+    site: "Search"
+    category: pharma_biotech
+
+  - name: "Pfizer"
+    ats: workday
+    tenant: "pfizer"
+    site: "PfizerCareers"
+    category: pharma_biotech
+
+  - name: "Regeneron"
+    ats: workday
+    tenant: "regeneron"
+    site: "Careers"
+    category: pharma_biotech
+
+  - name: "Vertex Pharmaceuticals"
+    ats: workday
+    tenant: "vrtx"
+    site: "VRTX"
+    category: pharma_biotech
+
+  - name: "Novartis"
+    ats: workday
+    tenant: "novartis"
+    site: "Novartis_Careers"
+    category: pharma_biotech
+
+  - name: "Bristol Myers Squibb"
+    ats: workday
+    tenant: "bms"
+    site: "BMS"
+    category: pharma_biotech
+
+  - name: "Genentech"
+    ats: workday
+    tenant: "gene"
+    site: "GENE"
+    category: pharma_biotech
+
+  - name: "AbbVie"
+    ats: workday
+    tenant: "abbvie"
+    site: "abbvie_careers"
+    category: pharma_biotech
+
+  - name: "Amgen"
+    ats: workday
+    tenant: "amgen"
+    site: "Amgen_Careers"
+    category: pharma_biotech
+
+  - name: "Gilead Sciences"
+    ats: workday
+    tenant: "gilead"
+    site: "gileadcareers"
+    category: pharma_biotech
+
+  - name: "Johnson & Johnson"
+    ats: workday
+    tenant: "jnj"
+    site: "jnj_careers"
+    category: pharma_biotech
+
+  # ---- Smaller / rare-disease biotech (your existing watchlist) ----
+  - name: "Zevra Therapeutics"
+    ats: greenhouse
+    token: "zevratherapeutics"
+    category: pharma_biotech
+
+  - name: "Eton Pharmaceuticals"
+    ats: lever
+    token: "etonpharma"
+    category: pharma_biotech
+
+  - name: "Kiniksa Pharmaceuticals"
+    ats: greenhouse
+    token: "kiniksapharmaceuticals"
+    category: pharma_biotech
+
+  # ---- Life sciences strategy / commercial consulting ----
+  - name: "ZS Associates"
+    ats: workday
+    tenant: "zs"
+    site: "ZS"
+    category: consulting
+
+  - name: "L.E.K. Consulting"
+    ats: greenhouse
+    token: "lek"
+    category: consulting
+
+  - name: "Trinity Life Sciences"
+    ats: greenhouse
+    token: "trinitylifesciences"
+    category: consulting
+
+  - name: "Putnam Associates"
+    ats: greenhouse
+    token: "putnamassociates"
+    category: consulting
+
+  - name: "Health Advances"
+    ats: greenhouse
+    token: "healthadvances"
+    category: consulting
+
+# =============================================================================
+# WATCHLIST — companies too small / too locked-down for a reliable public API
+# (most boutique VC funds, some boutique consultancies, and every startup).
+# These render in the dashboard as "check manually" with a direct careers-page
+# link. Flag any of these to Claude by name and ask for a people/contact
+# research pass instead of expecting it to auto-populate.
+# =============================================================================
+watchlist:
+  - name: "Flagship Pioneering"
+    category: vc
+    careers_url: "https://www.flagshippioneering.com/careers"
+
+  - name: "ARCH Venture Partners"
+    category: vc
+    careers_url: "https://www.archventure.com/"
+
+  - name: "Third Rock Ventures"
+    category: vc
+    careers_url: "https://www.thirdrockventures.com/careers"
+
+  - name: "Atlas Venture"
+    category: vc
+    careers_url: "https://www.atlasventure.com/"
+
+  - name: "Deerfield Management"
+    category: vc
+    careers_url: "https://www.deerfield.com/careers/"
+
+  - name: "Sofinnova Partners"
+    category: vc
+    careers_url: "https://www.sofinnovapartners.com/careers"
+
+  - name: "Clarion Healthcare"
+    category: consulting
+    careers_url: "https://www.clarionhealthcare.com/careers"
+
+  - name: "Back Bay Life Science Advisors"
+    category: consulting
+    careers_url: "https://www.backbaylifescience.com/careers"
+
+  - name: "McKinsey & Company"
+    category: consulting
+    careers_url: "https://www.mckinsey.com/careers/search-jobs"
+
+  - name: "Deloitte Life Sciences"
+    category: consulting
+    careers_url: "https://apply.deloitte.com/careers"
+
+  - name: "Accenture Life Sciences"
+    category: consulting
+    careers_url: "https://www.accenture.com/us-en/careers"
