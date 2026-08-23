@@ -58,6 +58,12 @@ def classify(title, keywords_cfg):
             tracks.add("technical")
  
     if not tracks:
+        # Doesn't match a specific keyword, but still looks like an
+        # internship/co-op -- surface it as "general" rather than silently
+        # dropping it. Lets you eyeball what's being missed and decide
+        # whether the keyword list needs to grow.
+        if "intern" in title_l or "co-op" in title_l or "coop" in title_l:
+            return "general", []
         return None, []
  
     track = "both" if len(tracks) == 2 else list(tracks)[0]
