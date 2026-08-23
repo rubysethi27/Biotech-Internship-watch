@@ -1,149 +1,256 @@
 {
-  "generated_at": "2026-08-22T20:42:48.519047+00:00",
-  "jobs": [],
+  "generated_at": "2026-08-23T14:42:30.422574+00:00",
+  "jobs": [
+    {
+      "company": "Moderna",
+      "title": "Counsel, US Market Access and Operations",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Princeton-New-Jersey/Counsel--US-Market-Access-and-Operations_R19625",
+      "category": "pharma_biotech",
+      "track": "business",
+      "matched_keywords": "market access",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Pfizer",
+      "title": "Internal Medicine Health & Science System Specialist - Phoenix N, AZ",
+      "location": "2 Locations",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Arizona---Phoenix/Internal-Medicine-Health---Science-System-Specialist---Phoenix-N--AZ_4960915",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Regeneron",
+      "title": "Manager International Payroll",
+      "location": "SLEEPY HOLLOW",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/Manager-International-Payroll_R50096",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Novartis",
+      "title": "Dir, MAPS (Market Access Patient Services)/Medical Data Partnerships Lead",
+      "location": "Remote Position (USA)",
+      "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Remote-Position-USA/Dir--MAPS--Market-Access-Patient-Services--Medical-Data-Partnerships-Lead_REQ-10086345-1",
+      "category": "pharma_biotech",
+      "track": "business",
+      "matched_keywords": "market access",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Sr. Consultant, Primary Market Research",
+      "location": "3 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Sr-Consultant--Primary-Market-Research_JR100740-1",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market research",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Engagement Manager- Primary Market Research",
+      "location": "3 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Engagement-Manager--Primary-Market-Research_JR100727-1",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market research",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Engagement Manager- Primary Market Research",
+      "location": "3 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Engagement-Manager--Primary-Market-Research_JR100723",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market research",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "VP, Commercial Operations Executive Management Advisor",
+      "location": "40 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/East-Norriton-PA/Vice-President--LSN-Key-Accounts_JR100418",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "commercial operations",
+      "source": "workday",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Putnam Associates",
+      "title": "Analyst, HTA and Market Access",
+      "location": "Tunis, Tunisia",
+      "url": "https://job-boards.greenhouse.io/putnamassociatesllc/jobs/7972907",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market access",
+      "source": "greenhouse",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Putnam Associates",
+      "title": "Global Consultant,  Lifesciences (Value Pricing & Market Access)",
+      "location": "Gurugram, India",
+      "url": "https://job-boards.greenhouse.io/putnamassociatesllc/jobs/8113686",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market access",
+      "source": "greenhouse",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    },
+    {
+      "company": "Putnam Associates",
+      "title": "Summer Associate Consultant (US) \u2013 2027 Internship Program",
+      "location": "Boston, Massachusetts",
+      "url": "https://job-boards.greenhouse.io/putnamassociatesllc/jobs/7967058",
+      "category": "consulting",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "greenhouse",
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23",
+      "status": "open"
+    }
+  ],
   "source_status": [
     {
       "company": "Moderna",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd1",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd5",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd1",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd1",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd501",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd3",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd5",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd3",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
-    },
-    {
-      "company": "AbbVie",
-      "ats": "workday",
-      "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd1",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd1",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd5",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
-    },
-    {
-      "company": "Zevra Therapeutics",
-      "ats": "greenhouse",
-      "status": "error",
-      "error": "network error: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
-    },
-    {
-      "company": "Eton Pharmaceuticals",
-      "ats": "lever",
-      "status": "error",
-      "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
-    },
-    {
-      "company": "ZS Associates",
-      "ats": "workday",
-      "status": "error",
-      "error": "HTTP 422 on wd12",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
-    },
-    {
-      "company": "L.E.K. Consulting",
-      "ats": "greenhouse",
-      "status": "error",
-      "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-21T17:40:38.033809+00:00"
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
-      "status": "error",
-      "error": "HTTP 400 on wd108",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
-      "status": "error",
-      "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
-    },
-    {
-      "company": "Health Advances",
-      "ats": "greenhouse",
-      "status": "error",
-      "error": "board token not found (404) \u2014 verify token in companies.yaml",
-      "last_checked": "2026-08-22T20:42:48.519047+00:00"
+      "status": "ok",
+      "error": null,
+      "last_checked": "2026-08-23T14:42:30.422574+00:00"
     }
   ],
   "watchlist": [
+    {
+      "name": "Health Advances",
+      "category": "consulting",
+      "careers_url": "https://www.healthadvances.com/careers/explore/job-openings"
+    },
     {
       "name": "AbbVie",
       "category": "pharma_biotech",
