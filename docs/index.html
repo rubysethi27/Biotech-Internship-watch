@@ -8,16 +8,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg: #10140f;
-    --panel: #171d15;
-    --panel-2: #1e251b;
-    --line: #2a3226;
-    --ink: #eae7db;
-    --muted: #8b9382;
-    --amber: #e8a33d;
-    --teal: #5fb79a;
-    --red: #c96a4f;
-    --radius: 3px;
+    --bg: #f6f7f9;
+    --panel: #ffffff;
+    --panel-2: #f2f4f7;
+    --line: #e3e6eb;
+    --ink: #1f2430;
+    --muted: #6b7280;
+    --accent: #2952cc;
+    --accent-soft: #eef1fb;
+    --teal: #0f9d8d;
+    --indigo: #5b5fc7;
+    --red: #d1453b;
+    --radius: 6px;
   }
   *{box-sizing:border-box;}
   body{
@@ -25,22 +27,21 @@
     background:var(--bg);
     color:var(--ink);
     font-family:'Inter',sans-serif;
-    background-image:
-      repeating-linear-gradient(0deg, rgba(255,255,255,0.015) 0px, rgba(255,255,255,0.015) 1px, transparent 1px, transparent 28px);
   }
   header{
     padding:36px 28px 20px;
     border-bottom:1px solid var(--line);
+    background:var(--panel);
     display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:16px;
   }
   .title-block .eyebrow{
     font-family:'IBM Plex Mono',monospace;
-    font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:var(--amber);
+    font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent);
     margin-bottom:6px;
   }
   h1{
     font-family:'Space Grotesk',sans-serif;
-    font-size:32px; margin:0; font-weight:700; letter-spacing:-0.01em;
+    font-size:32px; margin:0; font-weight:700; letter-spacing:-0.01em; color:var(--ink);
   }
   .updated{
     font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--muted);
@@ -60,75 +61,81 @@
   .source-dot .dot{ width:7px; height:7px; border-radius:50%; }
   .dot.ok{ background:var(--teal); }
   .dot.error{ background:var(--red); }
-  .source-dot[title]:hover{ border-color:var(--amber); color:var(--ink); }
+  .source-dot[title]:hover{ border-color:var(--accent); color:var(--ink); }
 
   .controls{
     display:flex; gap:10px; flex-wrap:wrap; margin-bottom:22px;
     padding:14px; background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:0 1px 2px rgba(16,24,40,0.04);
   }
   input[type=text]{
     flex:1; min-width:180px;
-    background:var(--bg); border:1px solid var(--line); color:var(--ink);
+    background:var(--panel); border:1px solid var(--line); color:var(--ink);
     padding:9px 12px; border-radius:var(--radius); font-family:'Inter'; font-size:14px;
   }
+  input[type=text]::placeholder{ color:var(--muted); }
   select{
-    background:var(--bg); border:1px solid var(--line); color:var(--ink);
+    background:var(--panel); border:1px solid var(--line); color:var(--ink);
     padding:9px 10px; border-radius:var(--radius); font-family:'Inter'; font-size:13px;
   }
 
   .section-label{
     font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.1em; text-transform:uppercase;
-    color:var(--amber); margin:32px 0 12px; display:flex; align-items:center; gap:10px;
+    color:var(--accent); margin:32px 0 12px; display:flex; align-items:center; gap:10px;
   }
   .section-label::after{ content:''; flex:1; height:1px; background:var(--line); }
 
   .job-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:12px; }
   .card{
     background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
-    padding:16px; position:relative; transition:border-color .15s;
+    padding:16px; position:relative; transition:box-shadow .15s, border-color .15s;
+    box-shadow:0 1px 2px rgba(16,24,40,0.04);
   }
-  .card:hover{ border-color:var(--amber); }
+  .card:hover{ border-color:var(--accent); box-shadow:0 4px 12px rgba(16,24,40,0.08); }
   .card .company{ font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
-  .card h3{ font-family:'Space Grotesk'; font-size:16px; margin:6px 0 10px; font-weight:700; line-height:1.3; }
+  .card h3{ font-family:'Space Grotesk'; font-size:16px; margin:6px 0 10px; font-weight:700; line-height:1.3; color:var(--ink); }
   .card .meta{ font-size:12px; color:var(--muted); margin-bottom:10px; }
   .tags{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
   .tag{
     font-family:'IBM Plex Mono',monospace; font-size:10px; padding:2px 7px; border-radius:20px;
     border:1px solid var(--line); color:var(--muted);
   }
-  .tag.business{ border-color:var(--teal); color:var(--teal); }
-  .tag.technical{ border-color:#7a9bd1; color:#7a9bd1; }
+  .tag.business{ border-color:var(--teal); color:var(--teal); background:#effaf8; }
+  .tag.technical{ border-color:var(--indigo); color:var(--indigo); background:#f2f2fc; }
+  .tag.general{ border-color:var(--muted); color:var(--muted); background:var(--panel-2); }
   .card a.apply{
     display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:12px;
-    color:var(--bg); background:var(--amber); padding:6px 12px; border-radius:20px;
+    color:#fff; background:var(--accent); padding:6px 12px; border-radius:20px;
     text-decoration:none; font-weight:500;
   }
+  .card a.apply:hover{ background:#1f3fa3; }
   .stamp{
     position:absolute; top:14px; right:14px; font-family:'IBM Plex Mono',monospace;
-    font-size:9px; letter-spacing:.1em; padding:2px 6px; border-radius:2px; transform:rotate(3deg);
+    font-size:9px; letter-spacing:.1em; padding:2px 6px; border-radius:3px;
     border:1px solid; text-transform:uppercase;
   }
-  .stamp.open{ color:var(--teal); border-color:var(--teal); }
-  .stamp.closed{ color:var(--red); border-color:var(--red); opacity:.7; }
+  .stamp.open{ color:var(--teal); border-color:var(--teal); background:#effaf8; }
+  .stamp.closed{ color:var(--red); border-color:var(--red); background:#fdefee; opacity:.85; }
 
   .watch-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:10px; }
   .watch-card{
     background:var(--panel-2); border:1px dashed var(--line); border-radius:var(--radius);
     padding:14px; font-size:13px;
   }
-  .watch-card .wname{ font-family:'Space Grotesk'; font-weight:700; margin-bottom:4px; }
+  .watch-card .wname{ font-family:'Space Grotesk'; font-weight:700; margin-bottom:4px; color:var(--ink); }
   .watch-card .whint{ color:var(--muted); font-size:12px; margin-bottom:10px; }
-  .watch-card a{ color:var(--amber); font-size:12px; font-family:'IBM Plex Mono',monospace; text-decoration:none; }
+  .watch-card a{ color:var(--accent); font-size:12px; font-family:'IBM Plex Mono',monospace; text-decoration:none; }
+  .watch-card a:hover{ text-decoration:underline; }
 
   .link-row{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px; }
   .quicklink{
     font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted);
-    border:1px solid var(--line); border-radius:20px; padding:5px 10px; text-decoration:none;
+    border:1px solid var(--line); background:var(--panel); border-radius:20px; padding:5px 10px; text-decoration:none;
   }
-  .quicklink:hover{ color:var(--amber); border-color:var(--amber); }
+  .quicklink:hover{ color:var(--accent); border-color:var(--accent); background:var(--accent-soft); }
 
   .empty{ color:var(--muted); font-family:'IBM Plex Mono',monospace; font-size:13px; padding:20px 0; }
-  footer{ text-align:center; padding:30px; color:var(--muted); font-size:12px; font-family:'IBM Plex Mono',monospace; }
+  footer{ text-align:center; padding:30px; color:var(--muted); font-size:12px; font-family:'IBM Plex Mono',monospace; border-top:1px solid var(--line); }
 </style>
 </head>
 <body>
@@ -150,6 +157,7 @@
       <option value="all">All tracks</option>
       <option value="business">Business track</option>
       <option value="technical">Technical track</option>
+      <option value="general">General / unclassified</option>
     </select>
     <select id="categoryFilter">
       <option value="all">All categories</option>
@@ -245,6 +253,7 @@ function renderJobs(jobs) {
       <div class="tags">
         ${j.track === 'business' || j.track === 'both' ? '<span class="tag business">business</span>' : ''}
         ${j.track === 'technical' || j.track === 'both' ? '<span class="tag technical">technical</span>' : ''}
+        ${j.track === 'general' ? '<span class="tag general">unclassified — review</span>' : ''}
       </div>
       <a class="apply" href="${j.url}" target="_blank" rel="noopener">View posting →</a>
     </div>
