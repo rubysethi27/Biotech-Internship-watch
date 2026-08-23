@@ -100,12 +100,7 @@ ats_tracked:
   # ---- Untested this round -- may still need fixing, see dashboard dots ----
   - name: "Putnam Associates"
     ats: greenhouse
-    token: "putnamassociates"
-    category: consulting
- 
-  - name: "Health Advances"
-    ats: greenhouse
-    token: "healthadvances"
+    token: "putnamassociatesllc"
     category: consulting
  
 # =============================================================================
@@ -116,6 +111,10 @@ ats_tracked:
 # pass instead of expecting it to auto-populate.
 # =============================================================================
 watchlist:
+  - name: "Health Advances"
+    category: consulting
+    careers_url: "https://www.healthadvances.com/careers/explore/job-openings"
+ 
   - name: "AbbVie"
     category: pharma_biotech
     careers_url: "https://careers.abbvie.com/en/"
