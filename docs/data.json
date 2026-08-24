@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-08-23T14:42:30.422574+00:00",
+  "generated_at": "2026-08-24T13:55:48.572853+00:00",
   "jobs": [
+    {
+      "company": "Johnson & Johnson",
+      "title": "Medical Affairs and Translational Research (MATR) Partnership Lead",
+      "location": "Raritan, New Jersey, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Medical-Affairs-and-Translational-Research--MATR--Partnership-Lead_R-072783-1",
+      "category": "pharma_biotech",
+      "track": "technical",
+      "matched_keywords": "translational",
+      "source": "workday",
+      "first_seen_date": "2026-08-24",
+      "last_seen_date": "2026-08-24",
+      "status": "open"
+    },
     {
       "company": "Moderna",
       "title": "Counsel, US Market Access and Operations",
@@ -11,7 +24,7 @@
       "matched_keywords": "market access",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -25,7 +38,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-23",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Regeneron",
@@ -37,7 +50,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -51,7 +64,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-23",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -63,7 +76,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -76,7 +89,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -89,7 +102,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -102,7 +115,7 @@
       "matched_keywords": "commercial operations",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -115,7 +128,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -128,7 +141,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     },
     {
@@ -141,7 +154,7 @@
       "matched_keywords": "",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-24",
       "status": "open"
     }
   ],
@@ -151,98 +164,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
-      "status": "ok",
-      "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "status": "error",
+      "error": "network error on wd1: HTTPSConnectionPool(host='amgen.wd1.myworkdayjobs.com', port=443): Read timed out. (read timeout=15)",
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-23T14:42:30.422574+00:00"
+      "last_checked": "2026-08-24T13:55:48.572853+00:00"
     }
   ],
   "watchlist": [
