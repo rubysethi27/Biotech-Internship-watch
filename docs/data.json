@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-08-31T19:27:59.758044+00:00",
+  "generated_at": "2026-09-03T16:59:42.274768+00:00",
   "jobs": [
+    {
+      "company": "Merck",
+      "title": "Specialty, Pharma, & Infectious Diseases Competitive Intelligence Team Lead",
+      "location": "3 Locations",
+      "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialty--Pharma----Infectious-Diseases-Competitive-Intelligence-Team-Lead_R415096-1",
+      "category": "pharma_biotech",
+      "track": "business",
+      "matched_keywords": "competitive intelligence",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "Scientist 2, Translational CVRM",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/Scientist-2--Translational-CVRM_202608-121653",
+      "category": "pharma_biotech",
+      "track": "technical",
+      "matched_keywords": "translational",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Lead, Market Access Strategy",
+      "location": "Canada - Ontario - Mississauga",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Ontario---Mississauga/Lead--Market-Access-Strategy_R0052665-2",
+      "category": "pharma_biotech",
+      "track": "business",
+      "matched_keywords": "market access",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Early Stage Innovation R&D Co-Op",
+      "location": "Raritan, New Jersey, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Early-Stage-Innovation-R-D-Co-Op_R-095530",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Commercial Strategy Summer Associate (SF)",
+      "location": "San Francisco, CA",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/San-Francisco-CA/Commercial-Strategy-Summer-Associate--SF-_JR100751",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "commercial strategy",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Consultant, Primary Market Research",
+      "location": "2 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/Consultant--Primary-Market-Research_JR100776",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market research",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Commercial Strategy Summer Associate (NY)",
+      "location": "New York, NY",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/New-York-NY/Commercial-Strategy-Summer-Associate--NY-_JR100752",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "commercial strategy",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Commercial Strategy Summer Associate (Waltham)",
+      "location": "Waltham, MA - Headquarters",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Commercial-Strategy-Summer-Associate--Waltham-_JR100749",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "commercial strategy",
+      "source": "workday",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03",
+      "status": "open"
+    },
     {
       "company": "Moderna",
       "title": "Co-Op, CMC Development (Spring 2027)",
@@ -11,7 +115,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-08-31",
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-03",
       "status": "open"
     },
     {
@@ -24,7 +128,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-08-31",
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-03",
       "status": "open"
     },
     {
@@ -38,7 +142,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-31",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Bristol Myers Squibb",
@@ -51,7 +155,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-31",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -64,7 +168,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-31",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Pfizer",
@@ -142,7 +246,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Pfizer",
@@ -194,7 +298,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -207,7 +311,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -220,7 +324,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -233,7 +337,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-08-31",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Putnam Associates",
@@ -245,7 +349,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-03",
       "status": "open"
     },
     {
@@ -258,7 +362,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-03",
       "status": "open"
     },
     {
@@ -271,7 +375,7 @@
       "matched_keywords": "",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-08-31",
+      "last_seen_date": "2026-09-03",
       "status": "open"
     }
   ],
@@ -281,98 +385,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-08-31T19:27:59.758044+00:00"
+      "last_checked": "2026-09-03T16:59:42.274768+00:00"
     }
   ],
   "watchlist": [
