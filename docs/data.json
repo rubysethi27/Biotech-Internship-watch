@@ -1,6 +1,292 @@
 {
-  "generated_at": "2026-09-10T16:56:58.521068+00:00",
+  "generated_at": "2026-09-14T18:29:40.356388+00:00",
   "jobs": [
+    {
+      "company": "Merck",
+      "title": "2027 Future Talent Program - Discovery Sample Management Analytical Chemistry - Intern",
+      "location": "USA - New Jersey - Rahway",
+      "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Sample-Management-Analytical-Chemistry---Intern_R414704",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Regeneron",
+      "title": "Fill/Finish Associate (Internal Fill/Finish MFG)",
+      "location": "RENSS - TEMPEL LN",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---TEMPEL-LN/Fill-Finish-Associate--Internal-Fill-Finish-MFG-_R50612",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Bristol Myers Squibb",
+      "title": "2027 MBA Business Development Associates Program (Full-time)",
+      "location": "Princeton - NJ - US",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/XMLNAME-2027-MBA-Business-Development-Associates-Program--Full-time-_R1606290",
+      "category": "pharma_biotech",
+      "track": "business",
+      "matched_keywords": "business development",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "2027 Spring Intern - Product Technical Development - Digital Sciences Focus",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Product-Technical-Development---Digital-Sciences-Focus_202609-123436",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Software Engineer \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Data Engineer \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Data Engineer \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Digital Product \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Machine Learning Engineer \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Data Engineer \u2013 Technology, AI & Data (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Research - Clinical Virology",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology_R0054783",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Kite Research - Protein Science",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Kite-Research---Protein-Science_R0054564-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Kite Research - In Vivo Pharmacology",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Kite-Research---In-Vivo-Pharmacology_R0054600-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Kite Research - Cell Biology",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Kite-Research---Cell-Biology_R0054481-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Kite Research - Cell Biology",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Kite-Research---Cell-Biology_R0054511-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Development - Medical Affairs, Medical Excellence Learning & Development",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---Medical-Affairs--Medical-Excellence-Learning---Development_R0054533",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Kite Development - Tech Ops (Process Development)",
+      "location": "United States - California - Santa Monica",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Tech-Ops--Process-Development-_R0054669-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Reliability Maintenance Technician Co-op",
+      "location": "Wilson, North Carolina, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Wilson-North-Carolina-United-States-of-America/Reliability-Maintenance-Technician-Co-op_R-097614",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
+    {
+      "company": "Putnam Associates",
+      "title": "Market Research Operations Associate",
+      "location": "Boston, Massachusetts",
+      "url": "https://job-boards.greenhouse.io/putnamassociatesllc/jobs/8081985",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "market research",
+      "source": "greenhouse",
+      "first_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-14",
+      "status": "open"
+    },
     {
       "company": "Merck",
       "title": "2027 Future Talent Program - Global Workplace & Enterprise Services - West Point Engineering - Co-op",
@@ -12,7 +298,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -25,7 +311,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Regeneron",
@@ -38,7 +324,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Regeneron",
@@ -51,7 +337,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Novartis",
@@ -63,7 +349,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-10",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -77,7 +363,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -90,7 +376,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -103,7 +389,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -116,7 +402,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -129,7 +415,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -142,7 +428,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -154,7 +440,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-10",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -168,7 +454,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -180,7 +466,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-09-10",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -193,7 +479,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-10",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -207,7 +493,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-07",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Moderna",
@@ -220,7 +506,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-07",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -272,7 +558,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-07",
       "last_seen_date": "2026-09-10",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -284,8 +570,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-07",
-      "last_seen_date": "2026-09-07",
-      "status": "closed"
+      "last_seen_date": "2026-09-14",
+      "status": "open"
     },
     {
       "company": "Genentech",
@@ -414,7 +700,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -427,7 +713,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -440,7 +726,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -453,7 +739,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -713,7 +999,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     },
     {
@@ -726,7 +1012,7 @@
       "matched_keywords": "",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-14",
       "status": "open"
     }
   ],
@@ -736,98 +1022,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-10T16:56:58.521068+00:00"
+      "last_checked": "2026-09-14T18:29:40.356388+00:00"
     }
   ],
   "watchlist": [
