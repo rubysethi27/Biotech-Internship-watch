@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-14T18:29:40.356388+00:00",
+  "generated_at": "2026-09-17T17:34:31.676076+00:00",
   "jobs": [
+    {
+      "company": "Merck",
+      "title": "2027 Future Talent Program \u2013 Pharmaceutical Analysis and Digital Technology (PADT) and Large Molecule Analytical (LMA) - Intern",
+      "location": "4 Locations",
+      "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Pharmaceutical-Analysis-and-Digital-Technology--PADT--and-Large-Molecule-Analytical--LMA----Intern_R418632",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-17",
+      "status": "open"
+    },
+    {
+      "company": "Merck",
+      "title": "2027 Future Talent Program - US Controllers - Intern",
+      "location": "USA - New Jersey - Rahway",
+      "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---US-Controllers---Intern_R412263",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-17",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "Scientist 3, In Vivo Translational Imaging",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/Scientist-3--In-Vivo-Translational-Imaging_202609-123453",
+      "category": "pharma_biotech",
+      "track": "technical",
+      "matched_keywords": "translational",
+      "source": "workday",
+      "first_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-17",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Development - Patient Safety Systems",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---RSQ--Patient-Safety-_R0054724",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-17",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Development - Biostatistics",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---Biostatistics_R0054649",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-09-17",
+      "last_seen_date": "2026-09-17",
+      "status": "open"
+    },
     {
       "company": "Merck",
       "title": "2027 Future Talent Program - Discovery Sample Management Analytical Chemistry - Intern",
@@ -12,7 +77,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Regeneron",
@@ -25,7 +90,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Bristol Myers Squibb",
@@ -38,7 +103,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -51,7 +116,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -64,7 +129,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -77,7 +142,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -90,7 +155,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -103,7 +168,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -116,7 +181,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -129,7 +194,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -142,7 +207,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -155,7 +220,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -168,7 +233,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -181,7 +246,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -194,7 +259,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -207,7 +272,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -220,7 +285,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -233,7 +298,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -246,7 +311,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Gilead Sciences",
@@ -259,7 +324,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Johnson & Johnson",
@@ -272,7 +337,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-14",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Putnam Associates",
@@ -284,7 +349,7 @@
       "matched_keywords": "market research",
       "source": "greenhouse",
       "first_seen_date": "2026-09-14",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -350,7 +415,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -441,7 +506,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Johnson & Johnson",
@@ -466,7 +531,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-09-10",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -479,7 +544,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-10",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -571,7 +636,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-07",
       "last_seen_date": "2026-09-14",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -700,7 +765,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -713,7 +778,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -726,7 +791,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -739,7 +804,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -999,7 +1064,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     },
     {
@@ -1012,7 +1077,7 @@
       "matched_keywords": "",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-09-14",
+      "last_seen_date": "2026-09-17",
       "status": "open"
     }
   ],
@@ -1022,98 +1087,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-09-14T18:29:40.356388+00:00"
+      "last_checked": "2026-09-17T17:34:31.676076+00:00"
     }
   ],
   "watchlist": [
