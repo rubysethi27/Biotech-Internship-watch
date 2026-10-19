@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-10-15T17:41:48.679440+00:00",
+  "generated_at": "2026-10-19T19:11:31.978705+00:00",
   "jobs": [
+    {
+      "company": "Moderna",
+      "title": "Co-Op, Business Operations & Operational Excellence",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Business-Operations---Operational-Excellence_R19950-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Moderna",
+      "title": "Co-Op, Supply Chain & Logistics",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Supply-Chain---Logistics_R19949",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Regeneron",
+      "title": "VP, International Medical Affairs",
+      "location": "4 Locations",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/Munich/VP--International-Medical-Affairs_R51116",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "title": "Spring 2027 Co-op, Performance Excellence and Business Transformation",
+      "location": "Boston, MA",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Spring-2027-Co-op--Performance-Excellence-and-Business-Transformation_REQ-31100-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "title": "Vertex Summer Intern, Commercial (10 weeks)",
+      "location": "Paddington, United Kingdom",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Paddington-United-Kingdom/Vertex-Summer-Intern--Commercial--10-weeks-_REQ-30433-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "title": "Vertex Summer Intern, International Supply Chain (10 weeks)",
+      "location": "Paddington, United Kingdom",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Paddington-United-Kingdom/Vertex-Summer-Intern--International-Supply-Chain--10-weeks-_REQ-30424-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Bristol Myers Squibb",
+      "title": "Analyst III, Global Internal Audit & Assurance (GIA) - IT Audit",
+      "location": "Hyderabad - TS - IN",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Analyst-III--Global-Internal-Audit---Assurance--GIA----IT-Audit_R1605678",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Undergrad Co-op \u2013 Finance/Accounting",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Co-op---Finance-Accounting_R-258006",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "HFE Co-op (Summer/2027) Raritan",
+      "location": "Raritan, New Jersey, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/HFE-Co-op--Summer-2027--Raritan_R-103482",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Sr Consultant Commercial Strategy",
+      "location": "Mexico - Paseo de la Reforma",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Mexico---Paseo-de-la-Reforma/Sr-Consultant--Strategy-Advisory-_JR100342",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "commercial strategy",
+      "source": "workday",
+      "first_seen_date": "2026-10-19",
+      "last_seen_date": "2026-10-19",
+      "status": "open"
+    },
     {
       "company": "Merck",
       "title": "2027 Future Talent Program \u2013 Manufacturing and Reliability Engineering Co-Op",
@@ -12,7 +142,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -25,7 +155,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -38,7 +168,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -51,7 +181,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Regeneron",
@@ -64,7 +194,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Regeneron",
@@ -77,7 +207,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -90,7 +220,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -103,7 +233,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -116,7 +246,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Johnson & Johnson",
@@ -129,7 +259,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -141,7 +271,7 @@
       "matched_keywords": "product strategy",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -154,7 +284,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -167,7 +297,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -180,7 +310,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -193,7 +323,7 @@
       "matched_keywords": "product strategy",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -206,7 +336,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -466,7 +596,7 @@
       "matched_keywords": "market research",
       "source": "greenhouse",
       "first_seen_date": "2026-10-12",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -752,7 +882,7 @@
       "matched_keywords": "competitive intelligence",
       "source": "workday",
       "first_seen_date": "2026-10-08",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -817,8 +947,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-01",
-      "last_seen_date": "2026-10-01",
-      "status": "closed"
+      "last_seen_date": "2026-10-19",
+      "status": "open"
     },
     {
       "company": "Moderna",
@@ -843,8 +973,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-01",
-      "last_seen_date": "2026-10-01",
-      "status": "closed"
+      "last_seen_date": "2026-10-19",
+      "status": "open"
     },
     {
       "company": "Regeneron",
@@ -1156,7 +1286,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-28",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Bristol Myers Squibb",
@@ -1220,8 +1350,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-28",
-      "last_seen_date": "2026-09-28",
-      "status": "closed"
+      "last_seen_date": "2026-10-19",
+      "status": "open"
     },
     {
       "company": "Gilead Sciences",
@@ -2611,7 +2741,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-10-15",
+      "last_seen_date": "2026-10-19",
       "status": "open"
     },
     {
@@ -2625,7 +2755,7 @@
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-10-15",
-      "status": "open"
+      "status": "closed"
     }
   ],
   "source_status": [
@@ -2634,98 +2764,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-15T17:41:48.679440+00:00"
+      "last_checked": "2026-10-19T19:11:31.978705+00:00"
     }
   ],
   "watchlist": [
