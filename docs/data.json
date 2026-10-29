@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-10-26T19:07:09.399833+00:00",
+  "generated_at": "2026-10-29T18:54:08.326714+00:00",
   "jobs": [
+    {
+      "company": "Moderna",
+      "title": "Intern, Operational Excellence",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Toronto---Canada/Intern--Operational-Excellence_R20124",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Moderna",
+      "title": "2027 Intern, Data Management",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Moderna",
+      "title": "2027 Co-Op, PTE",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--PTE_R20085",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Pfizer",
+      "title": "Repr\u00e9sentant-Sant\u00e9 et Sciences, Soins sp\u00e9cialist\u00e9s et m\u00e9decine interne / Health and Science Representative, Specialty care and internal medicine  (Quebec, Laurentides)",
+      "location": "Canada - Quebec - Remote",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Canada---Quebec---Remote/Reprsentant-Sant-et-Sciences--Soins-spcialists-et-mdecine-interne---Health-and-Science-Representative--Specialty-care-and-internal-medicine---Quebec--Laurentides-_4966458",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Pfizer",
+      "title": "Repr\u00e9sentant-Sant\u00e9 et Sciences, soins sp\u00e9cialis\u00e9s et m\u00e9decine interne/Monteregie-Health and Science Representative, Specialty Care & Internal Medicine (Mont\u00e9r\u00e9gie)",
+      "location": "Canada - Quebec - Remote",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Canada---Quebec---Remote/Reprsentant-Sant-et-Sciences--soins-spcialiss-et-mdecine-interne-Monteregie-Health-and-Science-Representative--Specialty-Care---Internal-Medicine--Montrgie-_4966451",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Pfizer",
+      "title": "Repr\u00e9sentant-Sant\u00e9 et Sciences, soins sp\u00e9cialis\u00e9s et m\u00e9decine interne/Mauricie-Bois-Francs-Health and Science Representative, Specialty Care & Internal Medicine (Mauricie-Bois-Francs)",
+      "location": "Canada - Quebec - Remote",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Canada---Quebec---Remote/Reprsentant-Sant-et-Sciences--soins-spcialiss-et-mdecine-interne-Mauricie-Bois-Francs-Health-and-Science-Representative--Specialty-Care---Internal-Medicine--Mauricie-Bois-Francs-_4966452",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Intern - Research - Inflammation - AI",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Analytics Strategy Intern",
+      "location": "2 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Analytics-Strategy-Intern_JR100879",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "strategy intern",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Data Science Intern",
+      "location": "2 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
+      "category": "consulting",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-10-29",
+      "last_seen_date": "2026-10-29",
+      "status": "open"
+    },
     {
       "company": "Regeneron",
       "title": "Clinical Study Specialist (Internal Medicine)",
@@ -12,7 +129,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-26",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -25,7 +142,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-26",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -38,7 +155,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-26",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Bristol Myers Squibb",
@@ -51,7 +168,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-26",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -64,7 +181,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-26",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Moderna",
@@ -310,7 +427,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-10-19",
-      "last_seen_date": "2026-10-26",
+      "last_seen_date": "2026-10-29",
       "status": "open"
     },
     {
@@ -453,7 +570,7 @@
       "matched_keywords": "product strategy",
       "source": "workday",
       "first_seen_date": "2026-10-15",
-      "last_seen_date": "2026-10-26",
+      "last_seen_date": "2026-10-29",
       "status": "open"
     },
     {
@@ -467,7 +584,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -480,7 +597,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -493,7 +610,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -506,7 +623,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -519,7 +636,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-15",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -778,7 +895,7 @@
       "matched_keywords": "market research",
       "source": "greenhouse",
       "first_seen_date": "2026-10-12",
-      "last_seen_date": "2026-10-26",
+      "last_seen_date": "2026-10-29",
       "status": "open"
     },
     {
@@ -1350,8 +1467,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-01",
-      "last_seen_date": "2026-10-01",
-      "status": "closed"
+      "last_seen_date": "2026-10-29",
+      "status": "open"
     },
     {
       "company": "Gilead Sciences",
@@ -1446,7 +1563,7 @@
     },
     {
       "company": "Vertex Pharmaceuticals",
-      "title": "Vertex Spring 2027 Co-op, Scientific Writing and Disease Area Communications",
+      "title": "Spring 2027 Co-op, Scientific Writing and Disease Area Communications",
       "location": "Boston, MA",
       "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Vertex-Spring-2027-Co-op--Scientific-Writing-and-Disease-Area-Communications_REQ-30514-1",
       "category": "pharma_biotech",
@@ -1454,8 +1571,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-28",
-      "last_seen_date": "2026-09-28",
-      "status": "closed"
+      "last_seen_date": "2026-10-29",
+      "status": "open"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -1532,8 +1649,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-28",
-      "last_seen_date": "2026-10-19",
-      "status": "closed"
+      "last_seen_date": "2026-10-29",
+      "status": "open"
     },
     {
       "company": "Gilead Sciences",
@@ -1545,8 +1662,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-28",
-      "last_seen_date": "2026-09-28",
-      "status": "closed"
+      "last_seen_date": "2026-10-29",
+      "status": "open"
     },
     {
       "company": "Gilead Sciences",
@@ -1584,8 +1701,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-28",
-      "last_seen_date": "2026-09-28",
-      "status": "closed"
+      "last_seen_date": "2026-10-29",
+      "status": "open"
     },
     {
       "company": "Gilead Sciences",
@@ -1597,8 +1714,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-09-28",
-      "last_seen_date": "2026-09-28",
-      "status": "closed"
+      "last_seen_date": "2026-10-29",
+      "status": "open"
     },
     {
       "company": "Gilead Sciences",
@@ -2287,7 +2404,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-10",
       "last_seen_date": "2026-10-26",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -2923,7 +3040,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-10-26",
+      "last_seen_date": "2026-10-29",
       "status": "open"
     },
     {
@@ -2946,98 +3063,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-10-26T19:07:09.399833+00:00"
+      "last_checked": "2026-10-29T18:54:08.326714+00:00"
     }
   ],
   "watchlist": [
