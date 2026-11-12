@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-11-09T22:56:11.237453+00:00",
+  "generated_at": "2026-11-12T20:43:34.006228+00:00",
   "jobs": [
+    {
+      "company": "Moderna",
+      "title": "2027 Co-Op, mRNA Design Engineering",
+      "location": "Unknown",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20125",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "title": "Vertex Summer Intern, Health Economics & Outcomes Research (10 weeks)",
+      "location": "Paddington, United Kingdom",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Paddington-United-Kingdom/Vertex-Summer-Intern--Health-Economics---Outcomes-Research--10-weeks-_REQ-30593",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "title": "Spring 2027 Co-Op, General Ledger Accounting",
+      "location": "Boston, MA",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Spring-2027-Co-Op--General-Ledger-Accounting_REQ-31429-1",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "2027 Summer Intern - Translational Safety (Computational Toxicology)",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Computational-Toxicology-_202611-128786",
+      "category": "pharma_biotech",
+      "track": "technical",
+      "matched_keywords": "translational",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "2027 Summer Intern - Product Development Data Sciences",
+      "location": "Boston",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Genentech",
+      "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern - PKDM-BA (Summer 2027)",
+      "location": "US - California - South San Francisco",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---PKDM-BA--Summer-2027-_R-261206",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern - Computational Chemistry (summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261449",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Computational Chemistry\u00a0(summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261445",
+      "category": "pharma_biotech",
+      "track": "general",
+      "matched_keywords": "",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
+    {
+      "company": "Trinity Life Sciences",
+      "title": "Partner- Commercial Strategy",
+      "location": "2 Locations",
+      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/California---Montgomery-Street/Partner--Commercial-Strategy_JR100552-1",
+      "category": "consulting",
+      "track": "business",
+      "matched_keywords": "commercial strategy",
+      "source": "workday",
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "status": "open"
+    },
     {
       "company": "Moderna",
       "title": "2027 Co-Op, Safety Epidemiology",
@@ -11,7 +154,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-11-09",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -24,7 +167,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-11-09",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -38,7 +181,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -50,7 +193,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-11-09",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -64,7 +207,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -77,7 +220,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Novartis",
@@ -90,7 +233,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Bristol Myers Squibb",
@@ -103,7 +246,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -116,7 +259,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Amgen",
@@ -129,7 +272,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-09",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Moderna",
@@ -141,7 +284,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -375,7 +518,7 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-29",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -389,7 +532,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-29",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Pfizer",
@@ -1246,7 +1389,7 @@
       "matched_keywords": "market research",
       "source": "greenhouse",
       "first_seen_date": "2026-10-12",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -1260,7 +1403,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-08",
       "last_seen_date": "2026-11-09",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Moderna",
@@ -1654,7 +1797,7 @@
     },
     {
       "company": "Vertex Pharmaceuticals",
-      "title": "Vertex Spring Co-Op 2027, Biologics MSAT",
+      "title": "Spring Co-Op 2027, Biologics MSAT",
       "location": "Boston, MA",
       "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Biologics-MSAT_REQ-30504-1",
       "category": "pharma_biotech",
@@ -1662,8 +1805,8 @@
       "matched_keywords": "",
       "source": "workday",
       "first_seen_date": "2026-10-01",
-      "last_seen_date": "2026-10-01",
-      "status": "closed"
+      "last_seen_date": "2026-11-12",
+      "status": "open"
     },
     {
       "company": "Vertex Pharmaceuticals",
@@ -1883,7 +2026,7 @@
       "matched_keywords": "commercial strategy",
       "source": "workday",
       "first_seen_date": "2026-10-01",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -3105,7 +3248,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-09-03",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -3352,7 +3495,7 @@
       "matched_keywords": "market research",
       "source": "workday",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -3391,7 +3534,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-11-09",
+      "last_seen_date": "2026-11-12",
       "status": "open"
     },
     {
@@ -3414,98 +3557,98 @@
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
-      "status": "ok",
-      "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "status": "error",
+      "error": "network error on wd5: HTTPSConnectionPool(host='msd.wd5.myworkdayjobs.com', port=443): Read timed out. (read timeout=15)",
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-09T22:56:11.237453+00:00"
+      "last_checked": "2026-11-12T20:43:34.006228+00:00"
     }
   ],
   "watchlist": [
