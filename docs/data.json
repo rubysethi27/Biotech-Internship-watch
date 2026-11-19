@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:48:56.681210+00:00",
+  "generated_at": "2026-11-19T21:18:11.386805+00:00",
   "jobs": [
     {
       "company": "Genentech",
@@ -12,7 +12,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-16",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -25,7 +25,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-16",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -38,7 +38,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-16",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Moderna",
@@ -90,7 +90,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-12",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Genentech",
@@ -181,7 +181,7 @@
       "source": "workday",
       "first_seen_date": "2026-11-12",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Moderna",
@@ -1428,7 +1428,7 @@
       "matched_keywords": "market research",
       "source": "greenhouse",
       "first_seen_date": "2026-10-12",
-      "last_seen_date": "2026-11-16",
+      "last_seen_date": "2026-11-19",
       "status": "open"
     },
     {
@@ -2066,7 +2066,7 @@
       "source": "workday",
       "first_seen_date": "2026-10-01",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Merck",
@@ -3288,7 +3288,7 @@
       "source": "workday",
       "first_seen_date": "2026-09-03",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -3535,7 +3535,7 @@
       "source": "workday",
       "first_seen_date": "2026-08-23",
       "last_seen_date": "2026-11-16",
-      "status": "open"
+      "status": "closed"
     },
     {
       "company": "Trinity Life Sciences",
@@ -3573,7 +3573,7 @@
       "matched_keywords": "market access",
       "source": "greenhouse",
       "first_seen_date": "2026-08-23",
-      "last_seen_date": "2026-11-16",
+      "last_seen_date": "2026-11-19",
       "status": "open"
     },
     {
@@ -3596,98 +3596,98 @@
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd1 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Merck",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd5 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Pfizer",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd1 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Regeneron",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd1 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Vertex Pharmaceuticals",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd501 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Novartis",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd3 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd5 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Genentech",
       "ats": "workday",
-      "status": "ok",
-      "error": null,
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "status": "error",
+      "error": "HTTP 429 on wd3 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Amgen",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd1 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Gilead Sciences",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd1 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
       "status": "error",
       "error": "HTTP 429 on wd5 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Kiniksa Pharmaceuticals",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Trinity Life Sciences",
       "ats": "workday",
-      "status": "ok",
-      "error": null,
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "status": "error",
+      "error": "HTTP 429 on wd108 -- response: <!DOCTYPE html> <html>  <head>     <style>         body {             text-align: center;             margin: 0;             height: 100%;             width: 100%;             font-family: 'Roboto', sans-serif;             color: #333333;         }          .graphicsContainer {             backgroun",
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     },
     {
       "company": "Putnam Associates",
       "ats": "greenhouse",
       "status": "ok",
       "error": null,
-      "last_checked": "2026-11-16T22:48:56.681210+00:00"
+      "last_checked": "2026-11-19T21:18:11.386805+00:00"
     }
   ],
   "watchlist": [
